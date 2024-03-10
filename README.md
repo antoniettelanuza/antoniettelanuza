@@ -10,6 +10,7 @@
 
 - 📌 I am currently an undergraduate student from Saint Paul University Surigao (SPUS) studying information technology. in my free time, I like to tinker with web design, create lists and write [**blogs**](https://icedappletea.tumblr.com/).
 - 📌 aspiring web designer/developer from the Philippines!
+- 📌 digital artist, I draw digitally (sometimes trad!) in my free time. (portfolio for my art is currently wip!)
 - 📌 constantly willing to explore and try out new things, I am never afraid to learn from new experiences and hopefully expand/hone my abilities even further.
 
 ### 🎵 Music
