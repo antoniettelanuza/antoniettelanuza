@@ -1,4 +1,4 @@
-# Antoniette Lanuza
+# Antoniette Lanuza (also known as ana)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -12,7 +12,13 @@
 - 📌 aspiring web designer/developer from the Philippines!
 - 📌 constantly willing to explore and try out new things, I am never afraid to learn from new experiences and hopefully expand/hone my abilities even further.
 
+### 🎵 Music
 
+<div align="left">
+  <a href="https://open.spotify.com/user/qndf5jwxmuxu9o687brahoutx">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qndf5jwxmuxu9o687brahoutx&width=1000" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ### 🖥 Skills
 
@@ -28,10 +34,8 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=plastic&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=plastic&logo=HTML5&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=plastic&logo=CSS3&color=353535) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=plastic&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=plastic&logo=PHP&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=Visual-Studio-Code&color=353535)
 
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=antoniettelanuza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=antoniettelanuza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-
-[Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
